@@ -1,0 +1,1 @@
+# AdvBalancer GLPI plugin

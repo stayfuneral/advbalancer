@@ -1,0 +1,32 @@
+#plugin-advbalancer-app {
+    background: #ffffff;
+    width: 100%;
+    max-width: 900px;
+    margin: 1em auto;
+    padding: 1em;
+;
+}
+
+.form-element {
+    margin: 1em 0;
+}
+
+input.input-limit {
+    background: none;
+    width: 60px;
+    height: 2em;
+    border-bottom: 1em #1B1E24 solid;
+    padding: 1em;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.set-limit {
+    background: #fec95c;
+    width: 100px;
+    height: 2em;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5em;
+    color: #8f5a0a;
+}
